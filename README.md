@@ -50,11 +50,13 @@ Users should be able to:
 ### What I learnt
 
 1. React:
-   Learnt three ways to manage toggle of children:
+   Learnt two ways to manage toggle of children:
 
    - making them manage their display states
    - controlling from parent using id and mapping through data changing the show property.
      _Note: Use of currId does not work in this case since the all inherit the same show state_
+     
+  Learnt when not to store data in state - when you are not modifying data (CRUD)
 
    Overall it was a very wonderful project.
 
