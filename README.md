@@ -1,4 +1,4 @@
-4. React-accordion
+##4. React-accordion
 
 This is a simple project from freecodecamp
 
